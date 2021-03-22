@@ -1,0 +1,11 @@
+#rougeTitre{
+    color: red;
+}
+#sousTitre{
+    color: royalblue;
+}
+#grand{
+    background-color: red;
+   font-size: 25px;
+   font-weight: bold;
+}
